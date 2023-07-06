@@ -5,13 +5,13 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <h3>Linguagens de Marcação </h3>
+  ## Linguagens de Marcação 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <div style="display: inline_block"><br>
-  <h3>Linguagens de programação</h3>
+  ## Linguagens de programação
   
   <img align="center" alt="Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -20,7 +20,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h3>Banco de dados </h3>
+  ## >Banco de dados 
   
   <img align="center" alt="Js" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
