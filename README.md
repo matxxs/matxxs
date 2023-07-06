@@ -22,7 +22,7 @@
 <div style="display: inline_block"><br>
   <h3>Banco de dados </h3>
   
-  <img align="center" alt="Js" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Js" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
  
  
