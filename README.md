@@ -19,15 +19,6 @@
   <img align="center" alt="Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
-### Banco de dados 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div>
- 
- 
- <br>
- 
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
