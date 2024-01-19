@@ -14,8 +14,11 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />    
+  <img align="center" alt="Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+ <img align="right" alt="Js" height="256" width="256" src="https://cdn.discordapp.com/attachments/744931010353037364/1197945022813835367/3a05b9dafc268c2ef4e1829389d26cb8-removebg-preview.png?ex=65bd1c3e&is=65aaa73e&hm=86d3af0ebdfb510c4bd0859059d6400b319bf3b52603460b672f217913060268&"/>  
+
 </div>
+
 
  ##
  
