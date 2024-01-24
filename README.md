@@ -1,5 +1,19 @@
-## Olá! Eu sou o Matheus Santos
+## Olá! Eu sou Matheus Santos
 
+<div>
+   <img align="right" alt="Js" height="200" width="400" src="https://cdn.discordapp.com/attachments/744931010353037364/1197984115048329216/aa0380f1b014b424f8ad032cb12241-unscreen.gif? ex=65bd40a6&is=65aacba6&hm=2d01f7c9fbf16e9442e7a011e2040febb58ce729e6d6c127c38e69cc40b6b798&"/>
+</div>
+
+
+<!-- BIO:START -->
+
+### Quém sou eu?
+
+<!-- BIO:END -->
+
+📍 Atualmente, exerço a função de Analista de TI. Minhas atividades incluem o atendimento ao usuário, realização de manutenções em computadores, monitoramento contínuo dos sistemas e implementação de alterações em bases de dados.
+
+📚 Iniciei a faculdade em 2023, tenho muito à aprender... RsRs. Possuo conhecimento em diversas linguagens, incluindo C#, JavaScript e PHP, sendo o C# minha principal ênfase para desenvolvimento no BackEnd. 
 
 <!-- SKILLSET:START -->
 
@@ -31,9 +45,6 @@
 <br/>
 
 <!-- SKILLSET:END -->
-
-
-<!-- <img align="right" alt="Js" height="300" width="600" src="https://cdn.discordapp.com/attachments/744931010353037364/1197984115048329216/aa0380f1b014b424f8ad032cb12241-unscreen.gif? ex=65bd40a6&is=65aacba6&hm=2d01f7c9fbf16e9442e7a011e2040febb58ce729e6d6c127c38e69cc40b6b798&"/> --> 
 
 ##
 
