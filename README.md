@@ -1,6 +1,21 @@
 Welcome to my <strong>README</strong>.</br>
+Working on personal projects. 
 
-Working on personal projects. </br></br>
 Wait for the profile to load... </br>
-
-<img height="79" width="250" src="https://cdn.discordapp.com/attachments/744931010353037364/1210619104596336730/Loading_branco.png?ex=65eb37e6&is=65d8c2e6&hm=9aa7450ab83e4621ccf7fcc166f667cb9945b2d2a9ef7613d10ca236e14ba0a3&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
+<img height="50" width="50" src="https://cdn.discordapp.com/attachments/744931010353037364/1210626576241266708/cogumelo-removebg-preview.png?ex=65eb3edc&is=65d8c9dc&hm=d48b005929f156a83d692b153db30e079db030edd78a1e56cdcef66214ce14f1&"/>
