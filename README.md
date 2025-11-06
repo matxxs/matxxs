@@ -1,30 +1,58 @@
+# 👋 Olá, sou o Matheus Santos
+
+## Sobre Mim
+
+Sou um desenvolvedor que busca criar soluções simples e eficientes. Com experiência em desenvolvimento Back End, busco constantemente aprender novas tecnologias e aprimorar minhas habilidades. Acredito no poder da tecnologia para transformar ideias em realidade.
+
+javascript
+const desenvolvedor = {
+  nome: "Matheus Santos",
+  localização: "Brasil",
+  foco: ["Desenvolvimento Back End", "Automação"],
+  mentalidade: "Aprendizado contínuo",
+};
+
+---
+
+## Estatísticas GitHub
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3399FF&width=435&lines=Matheus+Santos;Software+Developer;Back-end+.NET+%7C+Front-end+React;Criando+c%C3%B3digo+limpo+e+funcional" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matxxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/matxxs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matxxs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matxxs&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matxxs&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-### 👨‍💻 Sobre mim:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matxxs&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
-<p align="left">
-Desenvolvedor de Software com experiência na criação de aplicações web. Minha stack principal inclui C#, .NET, SQL, TypeScript e React. Tenho um interesse especial em design patterns e na modernização de sistemas, sempre visando a performance e a escalabilidade. Atualmente aprofundando meus conhecimentos em arquiteturas de software.
-</p>
+---
 
-### 🚀 Habilidades:
+## Conhecimentos & Habilidades
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,react,git,github" />
-  </a>
-</p>
+*Áreas de Expertise:*
 
-### 📫 Contato:
+- ⚙ Criação de APIs RESTful robustas e escaláveis
+- 🗄 Modelagem e gerenciamento de banco de dados
+- 🔒 Implementação de autenticação e segurança
 
-<p align="left">
-<a href="mailto:seu-email-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+## Atualmente Aprendendo
+
+- 📊 Data Science e Análise de Dados
+
+---
+
+## 💬 Conecte-se comigo
+
+Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecnologia! Sinta-se à vontade para entrar em contato:
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matxxs/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email)
+
+</div>
+
+---
